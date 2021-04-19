@@ -4,7 +4,6 @@ import (
 	"os"
 	"time"
 	"github.com/spf13/cobra"
-	"github.com/goreleaser/goreleaser"
 )
 
 func main() {
